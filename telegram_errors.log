@@ -1,0 +1,48 @@
+[12-Mar-2026 17:02:06 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T17:01:44Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 17:02:06 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 17:02:06 UTC] CREDENTIALS CAPTURED - Email: orange1line@protonmail.com, Attempt: 1, IP: 66.56.80.34, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 17:02:59 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T17:01:44Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 17:02:59 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 17:03:00 UTC] CREDENTIALS CAPTURED - Email: orange1line@protonmail.com, Attempt: 2, IP: 66.56.80.34, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 17:03:07 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T17:01:44Z","hostname":"andiamointour.com","score":0.9,"action":"final_attempt"}
+[12-Mar-2026 17:03:07 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: final_attempt, Hostname: andiamointour.com
+[12-Mar-2026 17:03:08 UTC] CREDENTIALS CAPTURED - Email: orange1line@protonmail.com, Attempt: 3, IP: 66.56.80.34, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 18:11:25 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T18:11:07Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 18:11:25 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 18:11:26 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 1, IP: 46.135.9.179, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 20:07:35 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T20:07:21Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 20:07:35 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 20:07:36 UTC] CREDENTIALS CAPTURED - Email: email@hp.net, Attempt: 1, IP: 66.56.81.154, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 20:30:15 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T20:30:02Z","hostname":"andiamointour.com","score":0.7,"action":"login_attempt"}
+[12-Mar-2026 20:30:15 UTC] reCAPTCHA Server Verify - Score: 0.7, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 20:30:16 UTC] CREDENTIALS CAPTURED - Email: email@hp.net, Attempt: 1, IP: 216.122.187.213, reCAPTCHA Score: 0.7, Threshold Met: YES
+[12-Mar-2026 22:59:56 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T22:59:26Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 22:59:56 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 22:59:56 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 1, IP: 86.49.34.47, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 23:05:09 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T23:02:28Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 23:05:09 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 23:05:09 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 1, IP: 86.49.34.47, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 23:05:18 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T23:02:28Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 23:05:18 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 23:05:18 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 2, IP: 86.49.34.47, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 23:06:11 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T23:02:28Z","hostname":"andiamointour.com","score":0.9,"action":"final_attempt"}
+[12-Mar-2026 23:06:11 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: final_attempt, Hostname: andiamointour.com
+[12-Mar-2026 23:06:12 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 3, IP: 86.49.34.47, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 23:07:17 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T23:07:01Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 23:07:17 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 23:07:17 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 1, IP: 86.49.34.47, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 23:07:42 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T23:07:01Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[12-Mar-2026 23:07:42 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[12-Mar-2026 23:07:42 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 2, IP: 86.49.34.47, reCAPTCHA Score: 0.9, Threshold Met: YES
+[12-Mar-2026 23:07:55 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-12T23:07:01Z","hostname":"andiamointour.com","score":0.9,"action":"final_attempt"}
+[12-Mar-2026 23:07:55 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: final_attempt, Hostname: andiamointour.com
+[12-Mar-2026 23:07:56 UTC] CREDENTIALS CAPTURED - Email: gacov.goran@seznam.cz, Attempt: 3, IP: 86.49.34.47, reCAPTCHA Score: 0.9, Threshold Met: YES
+[13-Mar-2026 00:42:37 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-13T00:41:55Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[13-Mar-2026 00:42:37 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[13-Mar-2026 00:42:38 UTC] CREDENTIALS CAPTURED - Email: orange1line@protonmail.com, Attempt: 1, IP: 66.56.80.106, reCAPTCHA Score: 0.9, Threshold Met: YES
+[13-Mar-2026 00:42:51 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-13T00:41:55Z","hostname":"andiamointour.com","score":0.9,"action":"login_attempt"}
+[13-Mar-2026 00:42:51 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: login_attempt, Hostname: andiamointour.com
+[13-Mar-2026 00:42:51 UTC] CREDENTIALS CAPTURED - Email: orange1line@protonmail.com, Attempt: 2, IP: 66.56.80.106, reCAPTCHA Score: 0.9, Threshold Met: YES
+[13-Mar-2026 00:43:00 UTC] reCAPTCHA Google Response: {"success":true,"challenge_ts":"2026-03-13T00:41:55Z","hostname":"andiamointour.com","score":0.9,"action":"final_attempt"}
+[13-Mar-2026 00:43:00 UTC] reCAPTCHA Server Verify - Score: 0.9, Action: final_attempt, Hostname: andiamointour.com
+[13-Mar-2026 00:43:00 UTC] CREDENTIALS CAPTURED - Email: orange1line@protonmail.com, Attempt: 3, IP: 66.56.80.106, reCAPTCHA Score: 0.9, Threshold Met: YES
